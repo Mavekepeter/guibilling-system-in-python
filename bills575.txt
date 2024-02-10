@@ -1,0 +1,22 @@
+		***Welcome Customer****
+billnumber: 575
+Customername: sam
+
+Customerphonenumber: 0708462058
+
+========================================
+
+Product		Quantity		Price
+
+========================================
+
+hair spray		1		150 Ksh
+
+========================================
+
+cosmetictax		18.0 Ksh
+
+totalbill		168.0
+
+========================================
+

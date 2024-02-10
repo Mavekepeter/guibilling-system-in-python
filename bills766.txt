@@ -1,0 +1,22 @@
+		***Welcome Customer****
+billnumber: 766
+Customername: 2
+
+Customerphonenumber: 7
+
+========================================
+
+Product		Quantity		Price
+
+========================================
+
+fanta		5		150 Ksh
+
+========================================
+
+drinkstax		18.0 Ksh
+
+totalbill		168.0
+
+========================================
+

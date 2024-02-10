@@ -1,0 +1,26 @@
+		***Welcome Customer****
+billnumber: 692
+Customername: 2
+
+Customerphonenumber: 7
+
+========================================
+
+Product		Quantity		Price
+
+========================================
+
+rice		3		750 Ksh
+
+fanta		5		150 Ksh
+
+========================================
+
+grocerytax		375.0 Ksh
+
+drinkstax		18.0 Ksh
+
+totalbill		1293.0
+
+========================================
+
